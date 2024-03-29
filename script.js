@@ -3,7 +3,7 @@ document.getElementById("Q1").addEventListener("click", function () {
   let y = document.getElementById("Q1");
   let x = document.getElementById("A1");
   if (x.style.height === "0px") {
-    x.style.height = "150px";
+    x.style.height = "auto";
     x.style.opacity = "1";
     x.style.padding = "23px";
     x.style.marginBottom = "8px";
@@ -28,7 +28,7 @@ document.getElementById("Q2").addEventListener("click", function () {
   let y = document.getElementById("Q2");
   let x = document.getElementById("A2");
   if (x.style.height === "0px") {
-    x.style.height = "60px";
+    x.style.height = "auto";
     x.style.opacity = "1";
     x.style.padding = "23px";
     x.style.marginBottom = "8px";
@@ -53,7 +53,7 @@ document.getElementById("Q3").addEventListener("click", function () {
   let y = document.getElementById("Q3");
   let x = document.getElementById("A3");
   if (x.style.height === "0px") {
-    x.style.height = "180px";
+    x.style.height = "auto";
     x.style.opacity = "1";
     x.style.padding = "23px";
     x.style.marginBottom = "8px";
@@ -78,7 +78,7 @@ document.getElementById("Q4").addEventListener("click", function () {
   let y = document.getElementById("Q4");
   let x = document.getElementById("A4");
   if (x.style.height === "0px") {
-    x.style.height = "60px";
+    x.style.height = "auto";
     x.style.opacity = "1";
     x.style.padding = "23px";
     x.style.marginBottom = "8px";
@@ -103,7 +103,7 @@ document.getElementById("Q5").addEventListener("click", function () {
   let y = document.getElementById("Q5");
   let x = document.getElementById("A5");
   if (x.style.height === "0px") {
-    x.style.height = "60px";
+    x.style.height = "auto";
     x.style.opacity = "1";
     x.style.padding = "23px";
     x.style.marginBottom = "8px";
@@ -128,7 +128,7 @@ document.getElementById("Q6").addEventListener("click", function () {
   let y = document.getElementById("Q6");
   let x = document.getElementById("A6");
   if (x.style.height === "0px") {
-    x.style.height = "150px";
+    x.style.height = "auto";
     x.style.opacity = "1";
     x.style.padding = "23px";
     x.style.marginBottom = "8px";
